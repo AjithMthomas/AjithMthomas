@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=0e75b6&style=flat" alt="ajithmthomas" /> </p>
 
-- 🌱 I’m currently learning **Intern@BROTOTYPE**
+- 🌱 I’m currently a **Intern@BROTOTYPE**
 
 - 💬 Ask me about **Python, Djnago,Psql,react,React.js,REST APIs**
 
