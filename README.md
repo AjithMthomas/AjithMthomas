@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently am a **Intern@BROTOTYPE**
+- 🌱 currently am a **Intern@BROTOTYPE**
 
 - 💬 Ask me about **Python, Djnago,Psql,react,React.js,REST APIs**
 
