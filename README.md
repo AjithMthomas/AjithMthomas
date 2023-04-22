@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithmthomas&show_icons=true&theme=dark&locale=en" alt="ajithmthomas" /</p>
 
-<p><img  width="75%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" /></p>
