@@ -1,6 +1,7 @@
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/119109970/233787022-29d42410-c815-4e85-ad86-9d799410d82f.gif)
 <h1 align="center">Hi 👋, I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://user-images.githubusercontent.com/119109970/233787022-29d42410-c815-4e85-ad86-9d799410d82f.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=161718&style=flat" alt="ajithmthomas" /> </p>
 
