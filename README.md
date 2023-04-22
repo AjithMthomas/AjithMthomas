@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/119109970/233787105-3cc7374c-9d1a-43e2-a247-ecfa59f85abb.gif" width="100%" height="50%" /><h1 align="center">Hi 👋, I'm Ajith M T</h1>
+<img src="https://user-images.githubusercontent.com/119109970/233787105-3cc7374c-9d1a-43e2-a247-ecfa59f85abb.gif" width="100%"  /><h1 align="center">Hi 👋, I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=161718&style=flat" alt="ajithmthomas" /> </p>
 - 🌱 I’m currently learning **Python Django**
@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajithmthomas&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajithmthomas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithmthomas&show_icons=true&theme=dark&locale=en" alt="ajithmthomas" />sxtr</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithmthomas&show_icons=true&theme=dark&locale=en" alt="ajithmthomas" /</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" /></p>
+<p width="100%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" /></p>
