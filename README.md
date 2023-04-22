@@ -21,8 +21,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajithmthomas&show_icons=true&theme=dark&locale=en" alt="ajithmthomas" /</p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" style="margin-right: 20px;">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithmthomas&theme=dark" alt="ajithmthomas" />
   <img src="https://user-images.githubusercontent.com/119109970/233790481-94f7ab36-23de-4ca5-8b58-90315c65572a.gif" alt="Animated GIF">
-</div>
+</p>
+
 
