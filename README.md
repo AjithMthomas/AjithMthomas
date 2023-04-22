@@ -1,5 +1,3 @@
-![ALT_TEXT]([DIRECT_LINK_TO_YOUR_GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw1C5obkB7L_PzrENyjKkPum&ust=1682254799930000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDx79DFvf4CFQAAAAAdAAAAABAK))
-
 <h1 align="center">Hi 👋, I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
