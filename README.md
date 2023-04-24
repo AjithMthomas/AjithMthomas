@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/119109970/233787105-3cc7374c-9d1a-43e2-a247-ecfa59f85abb.gif" width="100%" height="30%" /><h1 align="center">Hi [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<img src="https://user-images.githubusercontent.com/119109970/233787105-3cc7374c-9d1a-43e2-a247-ecfa59f85abb.gif" width="100%" height="30%" /><h1 align="center">Hi
   I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=161718&style=flat" alt="ajithmthomas" /> </p>
