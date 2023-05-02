@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/119109970/233787105-3cc7374c-9d1a-43e2-a247-ecfa59f85abb.gif](https://user-images.githubusercontent.com/119109970/235588209-01520af0-be53-4126-b110-5eee6e287282.gif" width="100%" height="30%" /><h1 align="center">Hi 👋, I'm Ajith M T</h1>
+![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966](https://user-images.githubusercontent.com/119109970/235588480-c0608b1a-a59e-4507-8114-79175ffe19d2.gif)
+
+width="100%" height="30%" /><h1 align="center">Hi 👋, I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=161718&style=flat" alt="ajithmthomas" /> </p>
 - 🌱 I’m currently refining **Python Django**
