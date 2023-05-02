@@ -1,4 +1,5 @@
-![68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f66732f3831626234623136353638343031392e363430623630333864313333652e676966](https://user-images.githubusercontent.com/119109970/235588480-c0608b1a-a59e-4507-8114-79175ffe19d2.gif)
+![139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866](https://user-images.githubusercontent.com/119109970/235589274-c599bb50-87bc-45f1-9de4-af996ac95d9c.gif)
+
 
 width="100%" height="30%" /><h1 align="center">Hi 👋, I'm Ajith M T</h1>
 <h3 align="center">A passionate Python developer from India</h3>
