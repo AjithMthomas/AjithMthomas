@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithmthomas&label=Profile%20views&color=161718&style=flat" alt="ajithmthomas" /> </p>
 - 🌱 I’m currently refining **Python Django**
 
-- 👨‍💻 All of my projects are available at [https://ajithmthomas.github.io/MYPortfolio/](https://ajithmthomas.github.io/MYPortfolio/)
+
 
 - 💬 Ask me about **Python,Django,React js,Psql,Mysql,**
 
