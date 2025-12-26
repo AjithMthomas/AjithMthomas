@@ -8,9 +8,6 @@
 - 🌱 Full Stack Development
 
 
-
-- 💬 Ask me about **Python,Django,React js,Psql,Mysql,**
-
 - 📫 How to reach me **ajithmuzhayamkattil@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
